@@ -26,6 +26,7 @@ public class StudyEx24 {
 
 		a %= 5; // a = a%5와 동일하다.
 		System.out.printf(" a %%= 5 ==> %d \n", a);
+		
 	}
 
 }
